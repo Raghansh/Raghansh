@@ -1,16 +1,23 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7,12&height=220&section=header&text=Raghansh%20Gulati&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20Ethical%20Hacker%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Aesthetic Anime Cyberpunk Hero Banner -->
+  <a href="https://github.com/Raghansh">
+    <img src="./assets/cyber_hacker_banner.jpg" width="100%" style="border-radius: 14px;" alt="Aesthetic Cyberpunk Hacker Anime Banner" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Top Waving Title Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7,12&height=180&section=header&text=Raghansh%20Gulati&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20Ethical%20Hacker%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/Raghansh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=%F0%9F%9B%A1%EF%B8%8F+Ethical+Hacker+%26+Cybersecurity+Enthusiast;%E2%9A%A1+Full-Stack+Web+Developer+(Next.js+%2B+Python);%F0%9F%8E%A8+Hyprland+%26+Aesthetic+Linux+Customizer;%F0%9F%94%92+Securing+Systems+%7C+Breaking+%26+Building;%E2%9C%A8+Crafting+High-Performance+Modern+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=%F0%9F%9B%A1%EF%B8%8F+Ethical+Hacker+%26+Cybersecurity+Enthusiast;%E2%9A%A1+Full-Stack+Web+Developer+(Next.js+%2B+Python);%F0%9F%8E%A8+Hyprland+%26+Tokyo+Night+Linux+Rice;%F0%9F%94%92+Securing+Systems+%7C+Breaking+%26+Building;%E2%9C%A8+Anime+%26+Cyberpunk+Aesthetic+Lover" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://github.com/Raghansh?tab=followers"><img src="https://img.shields.io/github/followers/Raghansh?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers" /></a>
-    <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Focus-Cybersec%20%26%20Web%20Dev-bb9af7?style=for-the-badge&logo=target" alt="Focus" /></a>
+    <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Aesthetic-Anime%20%26%20Cyberpunk-ff007f?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime Aesthetic" /></a>
     <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Environment-Hyprland%20%7C%20Linux-7dcfff?style=for-the-badge&logo=archlinux" alt="OS" /></a>
   </p>
 
@@ -20,6 +27,10 @@
 
 ### 🚀 About Me
 
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
 ```zsh
 raghansh@cyber-arch:~$ neofetch --profile
 ```
@@ -27,17 +38,26 @@ raghansh@cyber-arch:~$ neofetch --profile
 ```yaml
 Name:        Raghansh Gulati
 Location:    India 🇮🇳
-Passion:     Cybersecurity, Ethical Hacking & Full-Stack Engineering
-Environment: Hyprland / Arch Linux Aesthetic 🌸
-Current:     Developing secure web platforms & exploring vulnerability research
-Philosophy:  "Security by design, aesthetic by nature."
+Passion:     Cybersecurity, Ethical Hacking & Full-Stack
+Aesthetic:   Tokyo Night × Hyprland × Anime 🌸
+Quote:       "The net is vast and infinite." — Ghost in the Shell
+Current:     Developing secure web platforms & security research
 ```
 
-- 🛡️ Passionate about **Ethical Hacking**, **Penetration Testing**, and **Network Security**.
-- 💻 Building modern, responsive, and secure web applications with **Next.js**, **React**, and **Tailwind CSS**.
-- 🐍 Scripting automated security tools and backend utilities with **Python**.
-- ⚡ Loving minimalist, ultra-fast desktop environments (**Hyprland & Wayland**).
-- ☁️ Deploying edge workers and serverless infrastructure with **Cloudflare**.
+- 🛡️ Passionate about **Ethical Hacking**, **Penetration Testing**, and **Cyber Defense**.
+- 💻 Crafting high-performance web applications using **Next.js**, **React**, and **Tailwind CSS**.
+- 🐍 Scripting exploit scanners & automation tools in **Python**.
+- ⚡ Rice enthusiast: Minimalist **Hyprland / Wayland** with Tokyo Night dark palettes.
+- ☁️ Deploying lightning-fast edge applications on **Cloudflare**.
+
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/cyber_hacker_avatar.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(122, 162, 247, 0.3);" alt="Cyberpunk Anime Character Avatar" />
+      <br/>
+      <sub><i>⚡ "Security by design, aesthetic by nature."</i></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
