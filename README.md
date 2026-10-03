@@ -1,24 +1,27 @@
 <div align="center">
 
-  <!-- Aesthetic Anime Cyberpunk Hero Banner -->
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7,12&height=200&section=header&text=Raghansh%20Gulati&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20Ethical%20Hacker%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+
+  <!-- Live Anime Hero Showcase (Chainsaw Man x Zero Two) -->
+  <p align="center">
+    <img src="./assets/chainsaw_man.gif" width="220" style="border-radius: 14px; box-shadow: 0 4px 20px rgba(255, 69, 0, 0.4);" alt="Chainsaw Man Live Animation" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./assets/zero_two.gif" width="220" style="border-radius: 14px; box-shadow: 0 4px 20px rgba(255, 105, 180, 0.4);" alt="Zero Two Live Animation" />
+  </p>
+
+  <!-- Animated Typing Headline -->
   <a href="https://github.com/Raghansh">
-    <img src="./assets/cyber_hacker_banner.jpg" width="100%" style="border-radius: 14px;" alt="Aesthetic Cyberpunk Hacker Anime Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A1%EF%B8%8F+Ethical+Hacker+%26+Security+Researcher;%F0%9F%90%89+Powered+by+Kali+Linux+%26+Arch+Linux;%E2%9A%A1+Full-Stack+Developer+(Next.js+%2B+Python);%E2%9C%A8+Darling+in+the+Franxx+%C3%97+Chainsaw+Man+Fan;%F0%9F%94%92+Securing+Systems+%7C+Writing+Exploits" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Top Waving Title Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7,12&height=180&section=header&text=Raghansh%20Gulati&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20Ethical%20Hacker%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-
-  <!-- Animated Typing Headline -->
-  <a href="https://github.com/Raghansh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=%F0%9F%9B%A1%EF%B8%8F+Ethical+Hacker+%26+Cybersecurity+Enthusiast;%E2%9A%A1+Full-Stack+Web+Developer+(Next.js+%2B+Python);%F0%9F%8E%A8+Hyprland+%26+Tokyo+Night+Linux+Rice;%F0%9F%94%92+Securing+Systems+%7C+Breaking+%26+Building;%E2%9C%A8+Anime+%26+Cyberpunk+Aesthetic+Lover" alt="Typing SVG" />
-  </a>
-
   <p align="center">
     <a href="https://github.com/Raghansh?tab=followers"><img src="https://img.shields.io/github/followers/Raghansh?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers" /></a>
-    <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Aesthetic-Anime%20%26%20Cyberpunk-ff007f?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime Aesthetic" /></a>
-    <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Environment-Hyprland%20%7C%20Linux-7dcfff?style=for-the-badge&logo=archlinux" alt="OS" /></a>
+    <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-PenTesting-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" /></a>
+    <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-Daily_Driver-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" /></a>
+    <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Anime-Zero_Two_%7C_Chainsaw_Man-ff69b4?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime" /></a>
   </p>
 
 </div>
@@ -29,35 +32,53 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="64%" valign="top">
 
 ```zsh
-raghansh@cyber-arch:~$ neofetch --profile
+raghansh@kali-arch:~$ neofetch --profile
 ```
 
 ```yaml
-Name:        Raghansh Gulati
-Location:    India 🇮🇳
-Passion:     Cybersecurity, Ethical Hacking & Full-Stack
-Aesthetic:   Tokyo Night × Hyprland × Anime 🌸
-Quote:       "The net is vast and infinite." — Ghost in the Shell
-Current:     Developing secure web platforms & security research
+Name:         Raghansh Gulati
+Location:     India 🇮🇳
+Role:         Ethical Hacker & Full-Stack Engineer
+OS (Security):Kali Linux 🐉 (Offensive Security & PenTesting)
+OS (Dev):     Arch Linux 🍙 (Minimalist Dark Rice)
+Theme:        Tokyo Night × Cyberpunk
+Anime:        Darling in the Franxx (Zero Two) & Chainsaw Man 🩸
+Philosophy:   "If you don't take risks, you can't create a future."
 ```
 
-- 🛡️ Passionate about **Ethical Hacking**, **Penetration Testing**, and **Cyber Defense**.
-- 💻 Crafting high-performance web applications using **Next.js**, **React**, and **Tailwind CSS**.
-- 🐍 Scripting exploit scanners & automation tools in **Python**.
-- ⚡ Rice enthusiast: Minimalist **Hyprland / Wayland** with Tokyo Night dark palettes.
-- ☁️ Deploying lightning-fast edge applications on **Cloudflare**.
+- 🛡️ **Cybersecurity Enthusiast**: Vulnerability assessment, penetration testing, malware analysis & defensive auditing.
+- 🐉 **Kali Linux Expert**: Network reconnaissance, exploit tooling, Wireshark, Nmap, Metasploit, and custom bash scripts.
+- 🍙 **Arch Linux Power User**: Highly optimized Linux workflow for deep development & automation.
+- 💻 **Modern Web Crafting**: Building fast, reactive, scalable web apps with **Next.js**, **React**, and **Tailwind CSS**.
+- 🐍 **Security Automation**: Crafting vulnerability scanners, reconnaissance bots, and backend APIs in **Python**.
+- ☁️ **Cloud Infrastructure**: Deploying edge workers and web security gateways with **Cloudflare**.
 
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="./assets/cyber_hacker_avatar.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(122, 162, 247, 0.3);" alt="Cyberpunk Anime Character Avatar" />
-      <br/>
-      <sub><i>⚡ "Security by design, aesthetic by nature."</i></sub>
+    <td width="36%" align="center" valign="middle">
+      <img src="./assets/nagato_typing.gif" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(122, 162, 247, 0.35);" alt="Live Anime Coding GIF" />
+      <br/><br/>
+      <sub><i>⚡ "In our world, knowledge is the ultimate weapon."</i></sub>
+      <br/><br/>
+      <img src="./assets/makima.gif" width="90%" style="border-radius: 10px;" alt="Chainsaw Man Makima" />
     </td>
   </tr>
 </table>
+
+---
+
+### ⚔️ Anime Favourites & Aesthetics
+
+<div align="center">
+
+| **🌸 Darling in the Franxx** | **🪚 Chainsaw Man** |
+| :---: | :---: |
+| *"You're my darling, after all!"* — **Zero Two** | *"I'll keep fighting, no matter what it takes."* — **Denji** |
+| ![Zero Two Badge](https://img.shields.io/badge/Code_002-Zero_Two-ff69b4?style=for-the-badge&logo=heart&logoColor=white) | ![CSM Badge](https://img.shields.io/badge/Devil_Hunter-Chainsaw_Man-ff4500?style=for-the-badge&logo=fire&logoColor=white) |
+
+</div>
 
 ---
 
@@ -65,12 +86,12 @@ Current:     Developing secure web platforms & security research
 
 <div align="center">
 
-#### 🛡️ Cybersecurity & Systems
+#### 🛡️ Cybersecurity & Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=99CC00)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1F2430?style=for-the-badge&logo=shield&logoColor=7aa2f7)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Hyprland](https://img.shields.io/badge/Hyprland-00BFFF?style=for-the-badge&logo=wayland&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### 🌐 Web & Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
