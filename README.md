@@ -110,20 +110,6 @@ Philosophy:   "If you don't take risks, you can't create a future."
 
 </div>
 
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghansh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghansh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" height="175" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghansh&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7dcfff" height="180" alt="GitHub Streak" />
-
-</div>
 
 ---
 
