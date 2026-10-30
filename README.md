@@ -142,19 +142,6 @@ Philosophy:   "If you don't take risks, you can't create a future."
 
 ---
 
-### 📂 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🛡️ **[PhishingPG](https://github.com/Raghansh/PhishingPG)** | Heuristic Phishing URL Detector & Domain Risk Assessment Tool | `Python` `Cybersecurity` `URL Heuristics` |
-| ✨ **[promptathon121218](https://github.com/Raghansh/promptathon121218)** | AI Prompt Engineering Patterns, Reasoning Chains & Experiments | `Prompt Engineering` `Generative AI` |
-
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
 </div>
