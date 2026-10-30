@@ -12,7 +12,7 @@
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/Raghansh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A1%EF%B8%8F+Ethical+Hacker+%26+Security+Researcher;%F0%9F%90%89+Powered+by+Kali+Linux+%26+Arch+Linux;%E2%9A%A1+Full-Stack+Developer+(Next.js+%2B+Python);%E2%9C%A8+Darling+in+the+Franxx+%C3%97+Chainsaw+Man+Fan;%F0%9F%94%92+Securing+Systems+%7C+Writing+Exploits" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=740&lines=%F0%9F%9B%A1%EF%B8%8F+Ethical+Hacker+%26+Security+Researcher;%F0%9F%8C%90+Member+of+Linux%2C+Hacker+%26+Anime+Communities;%F0%9F%90%89+Powered+by+Kali+Linux+%26+Arch+Linux;%E2%9A%A1+Full-Stack+Developer+(Next.js+%2B+Python);%E2%9C%A8+Darling+in+the+Franxx+%C3%97+Chainsaw+Man+Fan;%F0%9F%94%92+Securing+Systems+%7C+Writing+Exploits" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -21,6 +21,7 @@
     <a href="https://github.com/Raghansh?tab=followers"><img src="https://img.shields.io/github/followers/Raghansh?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers" /></a>
     <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-PenTesting-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" /></a>
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-Daily_Driver-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" /></a>
+    <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Community-Linux_%7C_Hacker_%7C_Anime-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Community Member" /></a>
     <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Anime-Zero_Two_%7C_Chainsaw_Man-ff69b4?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime" /></a>
   </p>
 
@@ -42,6 +43,7 @@ raghansh@kali-arch:~$ neofetch --profile
 Name:         Raghansh Gulati
 Location:     India 🇮🇳
 Role:         Ethical Hacker & Full-Stack Engineer
+Communities:  Linux Community 🐧 | Hacker Community 🛡️ | Anime Community 🌸
 OS (Security):Kali Linux 🐉 (Offensive Security & PenTesting)
 OS (Dev):     Arch Linux 🍙 (Minimalist Dark Rice)
 Theme:        Tokyo Night × Cyberpunk
@@ -49,6 +51,7 @@ Anime:        Darling in the Franxx (Zero Two) & Chainsaw Man 🩸
 Philosophy:   "If you don't take risks, you can't create a future."
 ```
 
+- 🌐 **Active Community Member**: Proud contributor & member of the **Linux Community**, **Hacker Community (Ethical Hacker)**, and **Anime Community**.
 - 🛡️ **Cybersecurity Enthusiast**: Vulnerability assessment, penetration testing, malware analysis & defensive auditing.
 - 🐉 **Kali Linux Expert**: Network reconnaissance, exploit tooling, Wireshark, Nmap, Metasploit, and custom bash scripts.
 - 🍙 **Arch Linux Power User**: Highly optimized Linux workflow for deep development & automation.
@@ -66,6 +69,19 @@ Philosophy:   "If you don't take risks, you can't create a future."
     </td>
   </tr>
 </table>
+
+---
+
+### 🌐 Community Memberships
+
+<div align="center">
+
+| **🐧 Linux Community** | **🛡️ Hacker Community** | **🌸 Anime Community** |
+| :---: | :---: | :---: |
+| Open source, kernel tinkering & custom rices | Ethical hacking, vulnerability research & security | Otaku culture, aesthetic vibes & storytelling |
+| <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux_Community-Active_Member-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Community" /></a> | <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/Hacker_Community-Ethical_Hacker-000000?style=for-the-badge&logo=hackthebox&logoColor=99CC00" alt="Hacker Community" /></a> | <a href="https://myanimelist.net/"><img src="https://img.shields.io/badge/Anime_Community-Passionate_Member-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime Community" /></a> |
+
+</div>
 
 ---
 
