@@ -23,6 +23,7 @@
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-Daily_Driver-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" /></a>
     <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Community-Linux_%7C_Hacker_%7C_Anime-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Community Member" /></a>
     <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Anime-Zero_Two_%7C_Chainsaw_Man-ff69b4?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Raghansh&label=PROFILE+VIEWS&style=for-the-badge&color=7aa2f7&base=100" alt="Profile Views" />
   </p>
 
 </div>
@@ -53,7 +54,7 @@ Philosophy:   "If you don't take risks, you can't create a future."
 
 - 🌐 **Active Community Member**: Proud contributor & member of the **Linux Community**, **Hacker Community (Ethical Hacker)**, and **Anime Community**.
 - 🛡️ **Cybersecurity Enthusiast**: Vulnerability assessment, penetration testing, malware analysis & defensive auditing.
-- 🐉 **Kali Linux Expert**: Network reconnaissance, exploit tooling, Wireshark, Nmap, Metasploit, and custom bash scripts.
+- 🐉 **Kali Linux Expert**: Network reconnaissance, exploit tooling, Wireshark, Nmap, Metasploit, and custom security scripts.
 - 🍙 **Arch Linux Power User**: Highly optimized Linux workflow for deep development & automation.
 - 💻 **Modern Web Crafting**: Building fast, reactive, scalable web apps with **Next.js**, **React**, and **Tailwind CSS**.
 - 🐍 **Security Automation**: Crafting vulnerability scanners, reconnaissance bots, and backend APIs in **Python**.
@@ -98,35 +99,65 @@ Philosophy:   "If you don't take risks, you can't create a future."
 
 ---
 
+### ⚡ Current Missions & Focus
+
+- 🎯 **Security Research**: Deepening knowledge in network penetration testing, web application vulnerabilities, and CTF challenges.
+- 🛡️ **Tool Development**: Building automated vulnerability assessment and reconnaissance utilities in Python & Bash.
+- 🌐 **Full-Stack Engineering**: Developing responsive, secure web platforms using Next.js, React, and Tailwind CSS.
+- 🍙 **Linux Ecosystem**: Crafting high-performance custom workflows across Kali Linux and Arch Linux.
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-#### 🛡️ Cybersecurity & Operating Systems
+#### 🛡️ Cybersecurity, PenTesting & Systems
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=99CC00)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1F2430?style=for-the-badge&logo=shield&logoColor=7aa2f7)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 🌐 Web & Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### ⚙️ Backend, Cloud & DevOps
+#### ⚙️ Backend, Cloud & Security Infrastructure
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
+---
 
+### 📂 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🛡️ **[PhishingPG](https://github.com/Raghansh/PhishingPG)** | Heuristic Phishing URL Detector & Domain Risk Assessment Tool | `Python` `Cybersecurity` `URL Heuristics` |
+| ✨ **[promptathon121218](https://github.com/Raghansh/promptathon121218)** | AI Prompt Engineering Patterns, Reasoning Chains & Experiments | `Prompt Engineering` `Generative AI` |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
+</div>
 
 <br/>
 
