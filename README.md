@@ -19,6 +19,7 @@
 
   <p align="center">
     <a href="https://github.com/Raghansh?tab=followers"><img src="https://img.shields.io/github/followers/Raghansh?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers" /></a>
+    <a href="https://www.linkedin.com/in/raghansh"><img src="https://img.shields.io/badge/LinkedIn-Raghansh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-PenTesting-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" /></a>
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-Daily_Driver-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" /></a>
     <a href="https://github.com/Raghansh"><img src="https://img.shields.io/badge/Community-Linux_%7C_Hacker_%7C_Anime-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Community Member" /></a>
@@ -43,6 +44,7 @@ raghansh@kali-arch:~$ neofetch --profile
 ```yaml
 Name:         Raghansh Gulati
 Location:     India 🇮🇳
+LinkedIn:     linkedin.com/in/raghansh
 Role:         Ethical Hacker & Full-Stack Engineer
 Communities:  Linux Community 🐧 | Hacker Community 🛡️ | Anime Community 🌸
 OS (Security):Kali Linux 🐉 (Offensive Security & PenTesting)
